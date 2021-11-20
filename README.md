@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on a very special project with my lovely teammates 
 - 🌱 I’m currently learning more about diffrent collaboratione tools
 - 💬 Ask me about my previous projects!
+- 📫 more about me --> https://kingawr123.github.io/
 <!--
 **kingawr123/kingawr123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
