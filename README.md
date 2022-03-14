@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on a very special project with my lovely teammates 
-- 🌱 I’m currently learning more about diffrent collaboratione tools
 - 💬 Ask me about my previous projects!
 - 📫 more about me --> https://kingawr123.github.io/
 <!--
